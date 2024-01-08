@@ -1,6 +1,10 @@
 ### This visualization is from this link:https://flowingdata.com/
 
 
+![image](https://github.com/GuangjieXu/data-visualization/assets/114622908/75b7fa5f-09bf-4f15-b120-f7d9814ff3b9)
+
+
+
 ### is this truthful?
 
 **advantage:**

@@ -83,6 +83,7 @@ plot(p)
 
 ```
 ![LeBron James FG% Per Season](https://github.com/GuangjieXu/data-visualization/raw/main/lebron_fg_percentage_per_season.png)
+![lebron_points_per_season](https://github.com/GuangjieXu/data-visualization/assets/114622908/cbb6da26-8cf0-4e4b-a4fe-fb0b80176304)
 
 
 ```{r}

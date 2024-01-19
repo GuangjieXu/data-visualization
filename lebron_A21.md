@@ -128,7 +128,8 @@ ggsave("lebron_fg_percentage_per_season.png", width = 12, height = 6)
 plot(p)
 
 ```
-![lebron_fg_percentage_per_season](https://github.com/GuangjieXu/data-visualization/blob/main/lebron_fg_percentage_per_season.png)
+<img width="696" alt="image" src="https://github.com/GuangjieXu/data-visualization/assets/114622908/dc9c8f43-5c27-4026-a1b2-a787a649f286">
+
 ```{r}
 library(tidyr)
 
@@ -169,7 +170,8 @@ p <- ggplot(lebron_long, aes(x = Season_Order, y = Value)) +
 ggsave("lebron_combined_stats_per_season.png", plot = p, width = 12, height = 12)
 plot(p)
 ```
-![lebron_combined_stats_per_season](https://github.com/GuangjieXu/data-visualization/blob/main/lebron_combined_stats_per_season.png)
+<img width="720" alt="image" src="https://github.com/GuangjieXu/data-visualization/assets/114622908/9b839fe0-add2-4e79-9625-31faf1cc9d31">
+
 
 
 # Part 2: EDA + Critique

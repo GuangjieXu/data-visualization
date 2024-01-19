@@ -11,7 +11,7 @@ LeBron James, an all-time classic player, has been able to give 27.1 points per 
 
 ## My question
 
-I'm curious, despite the fact that he has always had very consistent offensive efficiency as the team's top star, does the offensive performance of the team's second and third best players have an impact on his game performance?
+I'm curious, despite the fact that he has always had very consistent offensive efficiency as the team's top star, how does the offensive performance of the team's second and third best players have an impact on his game performance?
 
 ## Any challenges you are anticipating
 

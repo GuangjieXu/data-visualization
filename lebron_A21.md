@@ -5,7 +5,6 @@
 
 Here is the dataset for this assignment and maybe for the rest assignments:
 
-- [Seasons_Stats.csv on GitHub](https://github.com/GuangjieXu/data-visualization/blob/main/Seasons_Stats.csv)
 - [Dataset on Kaggle](https://www.kaggle.com/datasets/drgilermo/nba-players-stats?resource=download&select=Seasons_Stats.csv)
 
 LeBron James, an all-time classic player, has been able to give 27.1 points per game as well as 50.1 percent shooting in his 20 years of joining the NBA.

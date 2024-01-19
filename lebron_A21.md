@@ -82,8 +82,9 @@ ggsave("lebron_points_per_season.png", width = 12, height = 6)
 plot(p)
 
 ```
-![LeBron James FG% Per Season](https://github.com/GuangjieXu/data-visualization/raw/main/lebron_fg_percentage_per_season.png)
 
+
+![lebron_points_per_season](https://github.com/GuangjieXu/data-visualization/assets/114622908/aba0a3e2-95b2-4b2e-a037-84ebcabf00a9)
 
 
 ```{r}

@@ -83,8 +83,8 @@ plot(p)
 
 ```
 
+<img width="696" alt="image" src="https://github.com/GuangjieXu/data-visualization/assets/114622908/4209a91d-837c-4097-b64a-c223519b33fd">
 
-![lebron_points_per_season](https://github.com/GuangjieXu/data-visualization/assets/114622908/aba0a3e2-95b2-4b2e-a037-84ebcabf00a9)
 
 
 ```{r}

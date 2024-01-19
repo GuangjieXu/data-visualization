@@ -82,7 +82,9 @@ ggsave("lebron_points_per_season.png", width = 12, height = 6)
 plot(p)
 
 ```
-https://github.com/GuangjieXu/data-visualization/blob/main/lebron_points_per_season.png
+![LeBron James FG% Per Season](https://github.com/GuangjieXu/data-visualization/raw/main/lebron_fg_percentage_per_season.png)
+
+
 ```{r}
 
 
@@ -124,7 +126,7 @@ ggsave("lebron_fg_percentage_per_season.png", width = 12, height = 6)
 plot(p)
 
 ```
-https://github.com/GuangjieXu/data-visualization/blob/main/lebron_fg_percentage_per_season.png
+![lebron_fg_percentage_per_season](https://github.com/GuangjieXu/data-visualization/blob/main/lebron_fg_percentage_per_season.png)
 ```{r}
 library(tidyr)
 
@@ -165,7 +167,7 @@ p <- ggplot(lebron_long, aes(x = Season_Order, y = Value)) +
 ggsave("lebron_combined_stats_per_season.png", plot = p, width = 12, height = 12)
 plot(p)
 ```
-https://github.com/GuangjieXu/data-visualization/blob/main/lebron_combined_stats_per_season.png
+![lebron_combined_stats_per_season](https://github.com/GuangjieXu/data-visualization/blob/main/lebron_combined_stats_per_season.png)
 
 
 # Part 2: EDA + Critique

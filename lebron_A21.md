@@ -1,11 +1,4 @@
----
-title: "Untitled"
-output: html_document
-date: "2024-01-19"
-editor_options: 
-  markdown: 
-    wrap: 72
----
+
 # Part 1: Portfolio 1 Proposal
 
 ## Dataset for this assignment and maybe for the rest assignments

@@ -163,7 +163,8 @@ p <- ggplot(lebron_long, aes(x = Season_Order, y = Value)) +
 ggsave("lebron_combined_stats_per_season.png", plot = p, width = 12, height = 12)
 plot(p)
 ```
-<img width="720" alt="image" src="https://github.com/GuangjieXu/data-visualization/assets/114622908/9b839fe0-add2-4e79-9625-31faf1cc9d31">
+<img width="716" alt="image" src="https://github.com/GuangjieXu/data-visualization/assets/114622908/91e49ed5-38d1-475c-8ec9-d094cc2e1a32">
+
 
 
 

@@ -98,9 +98,6 @@ average_fg_percentage_by_period <- lebron_data %>%
   ungroup()
 
 
-# For example: team_colors <- c("CLE" = "wine", "MIA" = "red", "LAL" = "gold")
-# You need to define team_colors based on the teams present in your dataset
-
 # Now plot with ggplot2, using geom_segment for the team average lines
 p <- ggplot(lebron_data, aes(x = Season_Order, y = `FG%`)) +
   geom_rect(aes(xmin = Season_Order - 0.5, xmax = Season_Order + 0.5, ymin = 0, ymax = 100, fill = Team), alpha = 0.2) +

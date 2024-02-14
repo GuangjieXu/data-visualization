@@ -4,6 +4,7 @@
 Need to include the data in the repo. Plot 1: Something looks weird with 2010 boxplot for win - why is the the upper quartile cut off? Y-axis label should be points scored. Plot 2: Need to rename the facet labels like "Three Pointers" etc. There's too many boxplots in this graph - Not sure what we should focus on. Also why does greater variance in assist suggest a gameplay orientation towards assists? Shouldn't lower variance be better since he's more consistent? Plot 3: boxplots for some years look weird, e.g., 2004, 2009, 2011, 2012. Check what's going on. Boxplots are a great tool but when you have so many seasons and variables, it might be better to just focus on the mean/median to get your point across.
 
 ### How I will incorporate that feedback and expand the project for the final ?
+For the final project, I decide to continue using the topic I selected in assignment 3.
 
 In the final project, I will upload the data I used. You can find the data here:[https://github.com/GuangjieXu/data-visualization/blob/main/lebron_career_final.csv](https://github.com/GuangjieXu/data-visualization/blob/main/lebron_career1.csv)
 

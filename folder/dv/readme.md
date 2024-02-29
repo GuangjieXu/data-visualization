@@ -1,4 +1,4 @@
-Preface: I attempted to use the "deploy app" feature, but encountered errors when opening the link, hence I'm submitting my assignment in text format.
+Preface: I attempted to use the "deploy app" feature,https://gj1012449308.shinyapps.io/appfinal/ but encountered errors when opening the link, hence I'm submitting my assignment in text format.
 
 Data Source: https://github.com/GuangjieXu/data-visualization/blob/main/folder/dv/lebron_career1.csv
 

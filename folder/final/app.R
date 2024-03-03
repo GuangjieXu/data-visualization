@@ -177,9 +177,9 @@ server <- function(input, output) {
     }
   })
   output$performancePlot <- renderPlot({
-    # 调用 generate_lebron_plot() 函数，并传入用户选择的变量
+
     generated_plot <- generate_lebron_plot(input$variable)
-    # 打印生成的图表
+
     print(generated_plot)
   })
   output$boxplotLeast <- renderPlot({
